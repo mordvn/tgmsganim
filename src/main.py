@@ -321,6 +321,3 @@ async def main() -> None:
 
 
 asyncio.run(main())
-
-# TODO: lambda filters -> F (magic filters) [aiogram v3]
-
